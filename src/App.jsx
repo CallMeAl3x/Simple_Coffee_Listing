@@ -1,5 +1,4 @@
 import { useEffect, useState } from 'react';
-import bg_cafe from './assets/img/bg-cafe.jpg';
 import star from './assets/img/Star.svg';
 import starfill from './assets/img/Star_fill.svg'
 import circles from './assets/img/vector.svg';
@@ -10,7 +9,7 @@ function App() {
 const [posts, setPosts] = useState([]);
 // État pour stocker les articles filtrés
 const [filteredPosts, setFilteredPosts] = useState([]);
-const [showAvailable, setShowAvailable] = useState(false); // Nouvel état pour le contrôle du filtre
+const [showAvailable, setShowAvailable] = useState(false);
 
 // Effet pour charger les données de l'API
 useEffect(() => {
