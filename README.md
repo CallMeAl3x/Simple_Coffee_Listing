@@ -24,7 +24,7 @@ Il s'agit d'une solution pour le défi [Dev Challenges](https://devchallenges.io
 
 ### Liens
 
-- [URL du site en direct]([https://multi-step-form-b-alexandre.netlify.app](https://b-alexandre-coffe-listing.netlify.app))
+- [URL du site en direct](https://b-alexandre-coffe-listing.netlify.app/)
 
 
 ### Construit avec
