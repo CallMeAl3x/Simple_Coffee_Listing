@@ -24,7 +24,7 @@ Il s'agit d'une solution pour le défi [Dev Challenges](https://devchallenges.io
 
 ### Liens
 
-- [URL du site en direct](https://coffe-listing.bonefons.com/)
+- [URL du site en direct](https://coffee-listing.bonefons.com)
 
 
 ### Construit avec
